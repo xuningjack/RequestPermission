@@ -1,4 +1,4 @@
-package com.zhangqie.jurisdiction;
+package com.jack.jurisdiction;
 
 import android.Manifest;
 import android.app.Activity;
@@ -8,10 +8,11 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.provider.MediaStore;
-import android.support.v4.app.ActivityCompat;
-import android.support.v4.content.ContextCompat;
 import android.view.View;
 import android.widget.Toast;
+
+import com.jack.compat.ActivityCompat;
+import com.jack.compat.ContextCompat;
 
 import java.util.ArrayList;
 import java.util.List;

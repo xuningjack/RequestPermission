@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Jurisdiction.iml" filepath="$PROJECT_DIR$/Jurisdiction.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android6.0-api.iml" filepath="$PROJECT_DIR$/android6.0-api.iml" />
+      <module fileurl="file://E:\RequestPermission\Jurisdiction.iml" filepath="E:\RequestPermission\Jurisdiction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RequestPermission.iml" filepath="$PROJECT_DIR$/.idea/RequestPermission.iml" />
+      <module fileurl="file://E:\RequestPermission\android6.0-api.iml" filepath="E:\RequestPermission\android6.0-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\RequestPermission\app\app.iml" filepath="E:\RequestPermission\app\app.iml" />
     </modules>
   </component>
 </project>
